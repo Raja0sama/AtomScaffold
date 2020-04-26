@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+      "baseUrl": ".",
+      "paths": {
+        "_scene/*": ["src/scene/*"],
+        "_router/*": ["src/router/*"],
+        "_actions/*": ["src/actions/*"],
+        "_models/*": ["src/models/*"],
+        "_components/*": ["src/components/*"],
+        "_assets/*": ["src/assets/*"],
+        "_utils/*": ["src/utils/*"],
+        "_services/*": ["src/services/*"],
+        "app/*" : ["src/*"]
+      }
+    }
+  }
